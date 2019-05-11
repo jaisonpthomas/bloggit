@@ -7,4 +7,4 @@
   - Support likes/comments on each post
   - Optimize for mobile
 
-![homepage](https://raw.githubusercontent.com/jaisonpthomas/devConnector/master/homepage.png "homepage")
+![homepage](https://raw.githubusercontent.com/jaisonpthomas/bloggit/master/homepage.png "homepage")
